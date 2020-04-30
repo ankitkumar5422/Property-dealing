@@ -1,0 +1,237 @@
+#c{
+    background-color: black;
+    color: aquamarine;
+height:1.5cm ;
+width: fit-screen;
+margin:0.1cm;
+opacity: 90%;
+}
+body{
+    background-image: url( build.jpeg);
+   }
+ul{
+    float: right;
+     margin-bottom:60px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: wavy;
+    color: white;
+    padding: 6px 20px;
+    border: 1px solid #fff;
+}
+ul li a:hover{
+    background-color: aqua;
+    color: black;
+}
+g{
+    font-style: italic;
+    font-size: xx-large;
+    font-size-adjust: inherit;
+    text-align: initial;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color:aquamarine;
+}
+h2{
+    color:aquamarine;
+}
+#ss{  background-color: black;
+    backface-visibility: hidden;
+     content: normal;
+    position: absolute;
+    margin-top: 2cm;
+    margin-right: 6cm;
+    margin-left: 16cm;
+}
+#sss
+{
+    margin-top: 6cm;
+    margin-left: 13cm;
+    opacity: 80%;
+     border-radius: 1cm;
+}
+#sss button{ 
+
+   display: inline-block;
+   background-color: black;
+   color: #fff;
+}
+#sss button:hover{
+    background-color: aqua;
+    color: black;
+}
+#project{
+    background-color: aqua;
+    margin-top: 1cm;
+    text-align: center;
+    font-size: large;
+    border:black;
+    border-radius: 0.1cm;
+}
+.tiles{
+
+  height: 450px;
+  width: 550px;
+  margin-left: 3cm;
+  margin-top: 2cm;
+  padding: 20px;
+border:0.1cm solid black;
+border-radius: 0.3cm;
+  float: left;
+}
+#zoom1{
+background-image: url(image1.jpg);
+background-size: 80%;
+transition: 1.5s;
+}
+#zoom2{
+    background-image: url(image2.jpg);
+    background-size: 150%;
+    transition: 1.5s;
+     }
+#zoom3{
+    background-image: url(image4.jpg);
+    background-size: 130%;
+    transition: 1.5s;
+     }
+#zoom4{
+    background-image: url(image6.jpg);
+    background-size: 140%;
+    transition: 1.5s;
+     }
+#zoom5{
+    background-image: url(image8.jpg);
+    background-size: 120%;
+    transition: 1.5s;
+    }
+#zoom6{
+    background-image: url(image89.jpg);
+    background-size: 115%;
+    transition: 1.5s;
+    } 
+#zoom1:hover{
+    background-size:100%;
+}
+#zoom2:hover{
+    background-size:170%;
+}
+#zoom3:hover{
+    background-size:150%;
+}
+#zoom4:hover{
+    background-size:160%;
+}
+#zoom5:hover{
+    background-size:140%;
+}
+#zoom6:hover{
+    background-size:135%;
+}
+#zoom7{
+    margin-top:47cm ;
+border:0.11cm solid black ;
+border-radius: 0.3cm;
+    width:39.6cm;
+    height: 7.7cm;
+    background-image: url(screen1.jpg);
+    background-size:100% ;
+}
+
+#sub1{
+    background-color: black;
+    margin: auto;
+    height: 3.7cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%; 
+padding-left: 0.3cm;
+}
+#sub2{
+    background-color: black;
+    margin: auto;
+    height: 3.8cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%;
+}
+#sub3{
+    background-color: black;
+    margin: auto;
+    height: 3.7cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%;
+}
+#sub4{
+    background-color: black;
+    margin: auto;
+    height: 3.7cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%;
+}
+#sub5{
+    background-color: black;
+    margin: auto;
+    height: 3.7cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%;
+}
+#sub6{
+    background-color: black;
+    margin: auto;
+    height: 3.7cm;
+    margin-top: 8cm;
+    border-radius: 0.3cm;
+    opacity: 60%;
+}
+#sub1 h1{
+    color: aqua;
+}
+#sub1 h3{
+    color: aquamarine;
+
+} 
+#sup1 {
+    color: aqua;
+    font-size:larger;
+}
+#sub2 h1{
+    color: aqua;
+}
+#sub2 h3{
+    color: aquamarine;
+
+} #sub3 h1{
+    color: aqua;
+}
+#sub3 h3{
+    color: aquamarine;
+
+} #sub4 h1{
+    color: aqua;
+}
+#sub4 h3{
+    color: aquamarine;
+
+} #sub5 h1{
+    color: aqua;
+}
+#sub5 h3{
+    color: aquamarine;
+}
+
+#sub6 h1{
+    color: aqua;
+}
+#sub6 h3{
+    color: aquamarine;
+
+} 
+
